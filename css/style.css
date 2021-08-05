@@ -668,6 +668,7 @@ footer .social li:before {
     height: 40px;
     background: #3c3d41;
     z-index: 999;
+    display: none;
 }
 
 a.scroll-top:after {
