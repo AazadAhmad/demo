@@ -225,6 +225,10 @@ header nav .logo h1{
 header ul li{
     display: inline-block;
 }
+header ul li:hover a{
+    color: #ea412a;
+    border-bottom: 2px #ea412a solid;
+}
 header ul li a{
     color: #000;
     font-size: 12px;
@@ -775,7 +779,7 @@ a.scroll-top:before {
         margin-right: 5px;
         position: absolute;
         right: 0;
-        top: 29px;
+        top: 32px;
     }
 
     .hamburger span {
