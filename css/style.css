@@ -382,7 +382,7 @@ header ul li .dropdown-content li a:hover{
 }
 
 .portfolio {
-    padding: 30px 0 0 0;
+    padding: 50px 0 0 0;
 }
 .portfolio .portfolio-title{
     max-width: 600px;
@@ -412,7 +412,7 @@ header ul li .dropdown-content li a:hover{
     color: #909090;
 }
 .works-category {
-    margin: 30px 0;
+    margin: 40px 0;
 }
 .works-category ul{
     margin: 0 auto;
