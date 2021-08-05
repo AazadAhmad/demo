@@ -259,7 +259,7 @@ header ul li a {
     color: #000;
     font-size: 12px;
     text-transform: uppercase;
-    font-weight: 400;
+    font-weight: 500;
     border-bottom: 2px solid transparent;
     padding: 20px 15px;
 }
@@ -298,7 +298,7 @@ header ul li .dropdown-content li {
 
 header ul li .dropdown-content li a {
     display: block;
-    padding: 5px 0;
+    padding: 5px 15px;
     color: #fff;
     border-bottom: none;
 }
